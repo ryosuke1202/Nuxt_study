@@ -1,12 +1,15 @@
 <template>
   <div>
-    index<br>
-    <NuxtLink to="/about">about</NuxtLink>
+    base/header
   </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+
 }
 </script>
+
+<style>
+
+</style>
